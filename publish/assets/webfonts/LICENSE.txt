@@ -1,0 +1,19 @@
+本目录下的字体文件为自托管的网页字体，授权均为 SIL Open Font License 1.1
+（可免费用于个人与商业用途，可再分发）。
+
+Inter
+  Copyright (c) 2016 The Inter Project Authors (https://github.com/rsms/inter)
+  License: SIL Open Font License 1.1 — https://openfontlicense.org
+  来源: https://fonts.google.com/specimen/Inter
+
+JetBrains Mono
+  Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)
+  License: SIL Open Font License 1.1 — https://openfontlicense.org
+  来源: https://fonts.google.com/specimen/JetBrains+Mono
+
+两个文件都是 Google Fonts 提供的 latin 分块可变字体（variable font）：
+  inter-latin.woff2            字形权重 200–900
+  jetbrains-mono-latin.woff2   字形权重 400–700
+
+中文不在其中，由浏览者系统的黑体渲染（macOS 苹方 / Windows 微软雅黑 /
+Android 思源黑体），所以这份稿子在断网环境下也能完整显示。
